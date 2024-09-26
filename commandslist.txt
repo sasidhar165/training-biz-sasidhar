@@ -1,0 +1,194 @@
+    1  2024-09-26 08:54:05 ls -l
+    2  2024-09-26 08:54:05 exit
+    3  2024-09-26 08:54:05 sudo add sasidhar1
+    4  2024-09-26 08:54:05 exit
+    5  2024-09-26 08:54:05 sudo adduser sasidhar1
+    6  2024-09-26 08:54:05 sudo su sasidhar1
+    7  2024-09-26 08:54:05 sudo passwd sasidhar1
+    8  2024-09-26 08:54:05 sudo su - sasidhar1
+    9  2024-09-26 08:54:05 sudo vim /etc/ssh/sshd_config
+   10  2024-09-26 08:54:05 sudo vi /etc/ssh/sshd_config
+   11  2024-09-26 08:54:05 exit
+   12  2024-09-26 08:54:05 sudo useradd sasi1
+   13  2024-09-26 08:54:05 sudo su sasi1
+   14  2024-09-26 08:54:05 sudo su - sasi1
+   15  2024-09-26 08:54:05 exit
+   16  2024-09-26 08:54:05 sudo su -
+   17  2024-09-26 08:54:05 cls
+   18  2024-09-26 08:54:05 exit
+   19  2024-09-26 08:54:05 sudo vi /etc/ssh/sshd_config
+   20  2024-09-26 08:54:05 sudo systemctl restart sshd
+   21  2024-09-26 08:54:05 sudo vi /etc/ssh/sshd_config
+   22  2024-09-26 08:54:05 exit
+   23  2024-09-26 08:54:05 ssh-keygen -y -f / "C:\Users\sasidhar.karri\Downloads\sasi_keypair.pem"/sasi_keypair.pem
+   24  2024-09-26 08:54:05 ssh-keygen -y -f "C:\Users\sasidhar.karri\Downloads\sasi_keypair.pem" > sasi_keypair.pub
+   25  2024-09-26 08:54:05 exit
+   26  2024-09-26 08:54:05 sudo su
+   27  2024-09-26 08:54:05 ls -a
+   28  2024-09-26 08:54:05 mkdir .ssh
+   29  2024-09-26 08:54:05 cd .ssh
+   30  2024-09-26 08:54:05 ls -a
+   31  2024-09-26 08:54:05 cat authorized_keys
+   32  2024-09-26 08:54:05 cat >> authorized_keys
+   33  2024-09-26 08:54:05 cd ..
+   34  2024-09-26 08:54:05 chmod 700 .ssh
+   35  2024-09-26 08:54:05 cd .ssh
+   36  2024-09-26 08:54:05 chmod 600 authorized_keys
+   37  2024-09-19 11:35:12 .mkdir shell
+   38  2024-09-19 11:35:42 mkdir shell
+   39  2024-09-19 11:35:52 chmod 700 shell
+   40  2024-09-19 11:37:40 touch my_code.txt
+   41  2024-09-19 11:38:31 rm my_code.txt
+   42  2024-09-19 11:38:51 ls -all
+   43  2024-09-19 11:39:10 ls
+   44  2024-09-19 11:39:19 cd shell
+   45  2024-09-19 11:40:13 touch my_code.sh
+   46  2024-09-19 11:40:25 chmod 600 my_code.sh
+   47  2024-09-19 11:48:27 cat >>my_code.sh
+   48  2024-09-19 11:49:18 touch file1.txt
+   49  2024-09-19 11:49:43 chmod 700 file1.txt
+   50  2024-09-19 11:50:03 ./my_code.sh file1.txt file2.txt
+   51  2024-09-19 11:50:27 chmod 700 my_code.sh
+   52  2024-09-19 11:50:34 ./my_code.sh file1.txt file2.txt
+   53  2024-09-19 11:50:43 cat file2.txt
+   54  2024-09-19 12:00:17 vi my_code.sh
+   55  2024-09-19 12:02:26 ./my_code.sh file1.txt
+   56  2024-09-19 12:39:23 cd ..
+   57  2024-09-19 12:39:28 export HISTTIMEFORMAT="%F %T "
+   58  2024-09-19 12:39:28 source ~/.bashrc
+   59  2024-09-19 12:39:28 history > commandslist.txt
+   60  2024-09-19 12:40:15 history
+   61  2024-09-19 12:52:07 more
+   62  2024-09-19 12:52:14 ls-l
+   63  2024-09-19 12:52:20 ls -al
+   64  2024-09-19 12:52:35 ls-al | more
+   65  2024-09-19 12:52:47 ls - l
+   66  2024-09-19 12:52:55 ls -l
+   67  2024-09-19 12:53:06 ls -l | more
+   68  2024-09-19 12:54:12 sasidhar1
+   69  2024-09-19 12:54:16 sasidhar
+   70  2024-09-19 12:54:21 cls
+   71  2024-09-19 12:54:25 clear
+   72  2024-09-19 12:54:28 history
+   73  2024-09-19 12:54:34 clear
+   74  2024-09-19 12:54:58 ls -al
+   75  2024-09-19 12:55:14 ssh sasidhar
+   76  2024-09-19 12:55:43 ssh sasidhar@51.20.123.67
+   77  2024-09-19 12:56:28 sasidhar
+   78  2024-09-19 12:56:32 ssh sasidhar@51.20.123.67
+   79  2024-09-19 12:57:19 ssh sasidhar1@51.20.123.67
+   80  2024-09-26 08:54:05 cat/etc/redhat-release
+   81  2024-09-26 08:54:05 cat /etc/redhat-release
+   82  2024-09-26 08:54:05 df -ah
+   83  2024-09-26 08:54:05 free -m
+   84  2024-09-26 08:54:05 sudo yum update
+   85  2024-09-26 08:54:05  
+   86  2024-09-26 08:54:05 df -ah
+   87  2024-09-26 08:54:05 man df
+   88  2024-09-26 08:54:05 java -version
+   89  2024-09-26 08:54:05 sudo yum install java-21-openjdk-devel
+   90  2024-09-26 08:54:05 java -version
+   91  2024-09-26 08:54:05 sudo yum install wget
+   92  2024-09-26 08:54:05 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpmhttps://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   93  2024-09-26 08:54:05 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   94  2024-09-26 08:54:05 ls -l
+   95  2024-09-26 08:54:05 ls -lh
+   96  2024-09-26 08:54:05 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   97  2024-09-26 08:54:05 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   98  2024-09-26 08:54:05 ls
+   99  2024-09-26 08:54:05 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  100  2024-09-26 08:54:05 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  101  2024-09-26 08:54:05 ls
+  102  2024-09-26 08:54:05 sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  103  2024-09-26 08:54:05 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  104  2024-09-26 08:54:05 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  105  2024-09-26 08:54:05 free -k
+  106  2024-09-26 08:54:05 free -m
+  107  2024-09-26 08:54:05 ls
+  108  2024-09-26 08:54:05 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  109  2024-09-26 08:54:05 sudo /etc/sysconfig/oracle-xe-21c configure
+  110  2024-09-26 08:54:05 sudo /etc/init.d/oracle-xe-21c configure
+  111  2024-09-26 08:54:05 cd /opt/oracle
+  112  2024-09-26 08:54:05 cd product/21c/dbhomeXE/bin
+  113  2024-09-26 08:54:05 ls -l
+  114  2024-09-26 08:54:05 cd cv/admin/cvu_config
+  115  2024-09-26 08:54:05 cd
+  116  2024-09-26 08:54:05 cd product/21c/dbhomeXE
+  117  2024-09-26 08:54:05 cd /opt/oracle
+  118  2024-09-26 08:54:05 cd product/21c/dbhomeXE
+  119  2024-09-26 08:54:05 cd cv/admin/cvu_config
+  120  2024-09-26 08:54:05 ls -al
+  121  2024-09-26 08:54:05 cd cv/admin/
+  122  2024-09-26 08:54:05 ls -al
+  123  2024-09-26 08:54:05 cvu_config
+  124  2024-09-26 08:54:05 cd cvu_config
+  125  2024-09-26 08:54:05 sudo vi cvu_config
+  126  2024-09-26 08:54:05 dc .
+  127  2024-09-26 08:54:05 cd ..
+  128  2024-09-26 08:54:05 cd
+  129  2024-09-26 08:54:05 sudo /etc/init.d/oracle-xe-21c configure
+  130  2024-09-26 08:54:05 ls a-l
+  131  2024-09-26 08:54:05 ls -al
+  132  2024-09-26 08:54:05 cd /opt
+  133  2024-09-26 08:54:05 cd ..
+  134  2024-09-26 08:54:05 sudo /etc/init.d/oracle-xe-21c configure
+  135  2024-09-26 08:54:05 sqlplus
+  136  2024-09-26 08:54:05 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  137  2024-09-26 08:54:05 export ORACLE_SID=XE
+  138  2024-09-26 08:54:05 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  139  2024-09-26 08:54:05 sqlplus
+  140  2024-09-26 08:54:05 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  141  2024-09-26 08:54:05 export ORACLE_SID=XE
+  142  2024-09-26 08:54:05 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  143  2024-09-26 08:54:05 sqlplus
+  144  2024-09-26 08:54:05 ls -al
+  145  2024-09-26 08:54:05 sqlplus
+  146  2024-09-26 08:54:05 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  147  2024-09-26 08:54:05 export ORACLE_SID=XE
+  148  2024-09-26 08:54:05 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  149  2024-09-26 08:54:05 sqlplus
+  150  2024-09-26 08:54:05 sqlplus / as sysdba
+  151  2024-09-26 08:54:05 alter user sys identified by sasidhar
+  152  2024-09-26 08:54:05 ls -al
+  153  2024-09-26 08:54:05 sqlplus
+  154  2024-09-26 08:54:05 sqlplus / as sysdba
+  155  2024-09-26 08:54:05 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  156  2024-09-26 08:54:05 export ORACLE_SID=XE
+  157  2024-09-26 08:54:05 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  158  2024-09-26 08:54:05 sqlplus / as sysdba
+  159  2024-09-26 08:54:05 sudo su - oracle
+  160  2024-09-26 08:54:05 sqlsplus
+  161  2024-09-26 08:54:05 sqlplus
+  162  2024-09-26 08:54:05 tnsping XE
+  163  2024-09-26 08:54:05 sqlplux
+  164  2024-09-26 08:54:05 sqlplus
+  165  2024-09-26 08:54:05 lsnr ctl start
+  166  2024-09-26 08:54:05 sudo bash
+  167  2024-09-26 08:54:05 sqlplus 
+  168  2024-09-26 08:54:05 history
+  169  2024-09-26 08:54:05 sudo bash
+  170  2024-09-26 08:54:05 sqlplus
+  171  2024-09-26 08:54:05 ls
+  172  2024-09-26 08:54:05 cd -
+  173  2024-09-26 08:54:05 cd .
+  174  2024-09-26 08:54:05 cd
+  175  2024-09-26 08:54:05 cd /opt/oracle/product/21c/dbhomeXE/bin
+  176  2024-09-26 08:54:05 imp classicmodels/classicmodels FILE=/home/ec2-user/'classicmodels .dmp' log=/home/ec2-user/import.log FULL=Y
+  177  2024-09-26 08:54:05 imp classicmodels/classicmodels DUMPFILE=/home/ec2-user/'classicmodels .dmp' log=/home/ec2-user/import.log FULL=Y
+  178  2024-09-26 08:54:05 imp classicmodels/classicmodels FILE=/home/ec2-user/'classicmodels .dmp' log=/home/ec2-user/import.log FULL=Y
+  179  2024-09-26 08:54:05 imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels .dmp log=/home/ec2-user/import.log FULL=
+  180  2024-09-26 08:54:05 cd
+  181  2024-09-26 08:54:05 rm 'classicmodels .dmp'
+  182  2024-09-26 08:54:05 ls
+  183  2024-09-26 08:54:05 ext
+  184  2024-09-26 08:54:05 exit
+  185  2024-09-26 08:54:14 ssh-keygen -t ed25519 -C "your_email@example.com"
+  186  2024-09-26 08:57:14 cat ~/.ssh/id_ed25519.pub
+  187  2024-09-26 08:58:34 git remote -v
+  188  2024-09-26 08:59:11 ls -a
+  189  2024-09-26 09:00:45 rm -rf training-biz-sasidhar
+  190  2024-09-26 09:00:49 ls a-l
+  191  2024-09-26 09:00:57 ls -al
+  192  2024-09-26 09:01:28 git clone git@github.com:sasidhar165/training-biz-sasidhar.git
+  193  2024-09-26 09:02:00 ls -al
+  194  2024-09-26 09:04:06 ./cronjob.ssh
