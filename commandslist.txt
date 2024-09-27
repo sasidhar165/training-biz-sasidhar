@@ -1,0 +1,278 @@
+ls -l
+exit
+sudo add sasidhar1
+exit
+sudo adduser sasidhar1
+sudo su sasidhar1
+sudo passwd sasidhar1
+sudo su - sasidhar1
+sudo vim /etc/ssh/sshd_config
+sudo vi /etc/ssh/sshd_config
+exit
+sudo useradd sasi1
+sudo su sasi1
+sudo su - sasi1
+exit
+sudo su -
+cls
+exit
+sudo vi /etc/ssh/sshd_config
+sudo systemctl restart sshd
+sudo vi /etc/ssh/sshd_config
+exit
+ssh-keygen -y -f / "C:\Users\sasidhar.karri\Downloads\sasi_keypair.pem"/sasi_keypair.pem
+ssh-keygen -y -f "C:\Users\sasidhar.karri\Downloads\sasi_keypair.pem" > sasi_keypair.pub
+exit
+sudo su
+ls -a
+mkdir .ssh
+cd .ssh
+ls -a
+cat authorized_keys
+cat >> authorized_keys
+cd ..
+chmod 700 .ssh
+cd .ssh
+chmod 600 authorized_keys
+#1726745712
+.mkdir shell
+#1726745742
+mkdir shell
+#1726745752
+chmod 700 shell
+#1726745860
+touch my_code.txt
+#1726745911
+rm my_code.txt
+#1726745931
+ls -all
+#1726745950
+ls
+#1726745959
+cd shell
+#1726746013
+touch my_code.sh
+#1726746025
+chmod 600 my_code.sh
+#1726746507
+cat >>my_code.sh
+#1726746558
+touch file1.txt
+#1726746583
+chmod 700 file1.txt
+#1726746603
+./my_code.sh file1.txt file2.txt
+#1726746627
+chmod 700 my_code.sh
+#1726746634
+./my_code.sh file1.txt file2.txt
+#1726746643
+cat file2.txt
+#1726747217
+vi my_code.sh
+#1726747346
+./my_code.sh file1.txt
+#1726749563
+cd ..
+#1726749568
+export HISTTIMEFORMAT="%F %T "
+#1726749568
+source ~/.bashrc
+#1726749568
+history > commandslist.txt
+#1726749615
+history
+#1726750327
+more
+#1726750334
+ls-l
+#1726750340
+ls -al
+#1726750355
+ls-al | more
+#1726750367
+ls - l
+#1726750375
+ls -l
+#1726750386
+ls -l | more
+#1726750452
+sasidhar1
+#1726750456
+sasidhar
+#1726750461
+cls
+#1726750465
+clear
+#1726750468
+history
+#1726750474
+clear
+#1726750498
+ls -al
+#1726750514
+ssh sasidhar
+#1726750543
+ssh sasidhar@51.20.123.67
+#1726750588
+sasidhar
+#1726750592
+ssh sasidhar@51.20.123.67
+#1726750639
+ssh sasidhar1@51.20.123.67
+cat/etc/redhat-release
+cat /etc/redhat-release
+df -ah
+free -m
+sudo yum update
+ 
+df -ah
+man df
+java -version
+sudo yum install java-21-openjdk-devel
+java -version
+sudo yum install wget
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpmhttps://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls -l
+ls -lh
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+ls
+sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+free -k
+free -m
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+sudo /etc/sysconfig/oracle-xe-21c configure
+sudo /etc/init.d/oracle-xe-21c configure
+cd /opt/oracle
+cd product/21c/dbhomeXE/bin
+ls -l
+cd cv/admin/cvu_config
+cd
+cd product/21c/dbhomeXE
+cd /opt/oracle
+cd product/21c/dbhomeXE
+cd cv/admin/cvu_config
+ls -al
+cd cv/admin/
+ls -al
+cvu_config
+cd cvu_config
+sudo vi cvu_config
+dc .
+cd ..
+cd
+sudo /etc/init.d/oracle-xe-21c configure
+ls a-l
+ls -al
+cd /opt
+cd ..
+sudo /etc/init.d/oracle-xe-21c configure
+sqlplus
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+sqlplus
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+sqlplus
+ls -al
+sqlplus
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+sqlplus
+sqlplus / as sysdba
+alter user sys identified by sasidhar
+ls -al
+sqlplus
+sqlplus / as sysdba
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+sqlplus / as sysdba
+sudo su - oracle
+sqlsplus
+sqlplus
+tnsping XE
+sqlplux
+sqlplus
+lsnr ctl start
+sudo bash
+sqlplus 
+history
+sudo bash
+sqlplus
+ls
+cd -
+cd .
+cd
+cd /opt/oracle/product/21c/dbhomeXE/bin
+imp classicmodels/classicmodels FILE=/home/ec2-user/'classicmodels .dmp' log=/home/ec2-user/import.log FULL=Y
+imp classicmodels/classicmodels DUMPFILE=/home/ec2-user/'classicmodels .dmp' log=/home/ec2-user/import.log FULL=Y
+imp classicmodels/classicmodels FILE=/home/ec2-user/'classicmodels .dmp' log=/home/ec2-user/import.log FULL=Y
+imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels .dmp log=/home/ec2-user/import.log FULL=
+cd
+rm 'classicmodels .dmp'
+ls
+ext
+exit
+ssh-keygen -t ed25519 -C "your_email@example.com"
+cat ~/.ssh/id_ed25519.pub
+git remote -v
+ls -a
+rm -rf training-biz-sasidhar
+ls a-l
+ls -al
+git clone git@github.com:sasidhar165/training-biz-sasidhar.git
+ls -al
+./cronjob.ssh
+ls -al
+./cronjob.ssh
+ls -al
+cd ..
+cd .
+exit
+./cronjob.ssh
+ls -al
+mv cronjob.ssh cronjob.sh
+ls -al
+./cronjob.sh
+crontab -e
+history 
+history
+sudo yum install git
+git --version
+git init
+ls
+ls -al
+rm .git
+rm -rf .git
+git clone https://github.com/sasidhar165/training-biz-sasidhar.git
+ls -al
+cd training-biz-sasidhar
+ls    # List the files
+git remote -v    # Check the configured remotes
+cd .
+cd ..
+touch git push origin master
+touch cronjob.ssh
+chmod 777 cronjob.ssh
+ls -al
+vi cronjob.ssh
+crontab -e
+./cronjob.ssh
+git config --global --edit
+vi cronjob
+vi cronjob.ssh
+./cronjob.ssh
+
+exit
