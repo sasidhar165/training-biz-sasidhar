@@ -1,6 +1,6 @@
 total 2286316
 -rw-r--r--. 1 ec2-user ec2-user     301056 Sep 25 05:41 classicmodels.dmp
--rw-r--r--. 1 ec2-user ec2-user       2663 Sep 19 12:39 commandslist.txt
+-rw-r--r--. 1 ec2-user ec2-user       2663 Oct  1 07:34 commandslist.txt
 -rw-r--r--. 1 ec2-user ec2-user    1182640 Jun 30  2022 compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
 -rw-r--r--. 1 ec2-user ec2-user          0 Sep 27 12:00 cronjob
 -rwxrwxrwx. 1 ec2-user ec2-user        275 Sep 30 12:34 cronjob.sh
