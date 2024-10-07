@@ -1,4 +1,4 @@
-total 2286332
+total 2286336
 -rw-r--r--. 1 ec2-user ec2-user        170 Oct  3 11:25 archive.zip
 -rw-r--r--. 1 ec2-user ec2-user     301056 Sep 25 05:41 classicmodels.dmp
 -rw-r--r--. 1 ec2-user ec2-user       2663 Oct  1 07:34 commandslist.txt
@@ -11,6 +11,7 @@ total 2286332
 drwxr-xr-x. 3 ec2-user ec2-user         34 Sep 27 07:46 grep_test
 -rw-r--r--. 1 ec2-user ec2-user       1301 Sep 25 05:48 import.log
 -rw-r--r--. 1 ec2-user ec2-user          0 Sep 25 05:48 import_sys.sql
+-rwxr-xr-x. 1 ec2-user ec2-user        949 Oct  7 05:14 mail.py
 -rwxrwxrwx. 1 ec2-user ec2-user        398 Oct  4 09:50 mail.sh
 -rw-r--r--. 1 ec2-user ec2-user          0 Sep 26 07:53 master
 -rw-r--r--. 1 ec2-user ec2-user      30772 Jul 13  2021 oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
