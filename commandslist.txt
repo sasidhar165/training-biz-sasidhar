@@ -5,14 +5,14 @@ total 2286336
 -rw-r--r--. 1 ec2-user ec2-user    1182640 Jun 30  2022 compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
 -rw-r--r--. 1 ec2-user ec2-user          0 Sep 27 12:00 cronjob
 -rwxrwxrwx. 1 ec2-user ec2-user        275 Sep 30 12:34 cronjob.sh
--rwxrwxrwx. 1 ec2-user ec2-user       3301 Oct  7 06:02 dfile.txt
+-rwxrwxrwx. 1 ec2-user ec2-user       3301 Oct  7 06:10 dfile.txt
 -rw-r--r--. 1 ec2-user ec2-user        112 Oct  6 16:58 email_body.txt
 -rw-r--r--. 1 ec2-user ec2-user          0 Sep 26 07:53 git
 drwxr-xr-x. 3 ec2-user ec2-user         34 Sep 27 07:46 grep_test
 -rw-r--r--. 1 ec2-user ec2-user       1301 Sep 25 05:48 import.log
 -rw-r--r--. 1 ec2-user ec2-user          0 Sep 25 05:48 import_sys.sql
 -rw-r--r--. 1 ec2-user ec2-user          0 Oct  7 05:24 mail
--rwxr-xr-x. 1 ec2-user ec2-user       1726 Oct  7 05:59 mail.py
+-rwxr-xr-x. 1 ec2-user ec2-user       1728 Oct  7 06:08 mail.py
 -rwxrwxrwx. 1 ec2-user ec2-user        412 Oct  7 05:42 mail.sh
 -rw-r--r--. 1 ec2-user ec2-user          0 Sep 26 07:53 master
 -rw-r--r--. 1 ec2-user ec2-user      30772 Jul 13  2021 oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
