@@ -18,7 +18,7 @@ drwxr-xr-x. 3 ec2-user ec2-user         34 Sep 27 07:46 grep_test
 -rw-r--r--. 1 ec2-user ec2-user      30772 Jul 13  2021 oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
 -rw-r--r--. 1 ec2-user ec2-user 2339651768 Sep  8  2021 oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
 -rw-r--r--. 1 ec2-user ec2-user          0 Sep 26 07:53 origin
--rw-r--r--. 1 ec2-user ec2-user      11417 Oct  7 16:15 pay.csv
+-rw-r--r--. 1 ec2-user ec2-user       9233 Oct  7 16:32 pay.csv
 -rw-r--r--. 1 ec2-user ec2-user          0 Sep 26 07:53 push
 -rw-r--r--. 1 root     root              0 Sep 18 16:33 sasi_keypair.pem
 -rw-r--r--. 1 ec2-user ec2-user          0 Sep 18 16:32 sasi_keypair.pub
