@@ -5,7 +5,7 @@ total 2286336
 -rw-r--r--. 1 ec2-user ec2-user    1182640 Jun 30  2022 compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
 -rw-r--r--. 1 ec2-user ec2-user          0 Sep 27 12:00 cronjob
 -rwxrwxrwx. 1 ec2-user ec2-user        275 Sep 30 12:34 cronjob.sh
--rwxrwxrwx. 1 ec2-user ec2-user       3298 Oct 10 23:00 dfile.txt
+-rwxrwxrwx. 1 ec2-user ec2-user       3298 Oct 10 23:30 dfile.txt
 -rw-r--r--. 1 ec2-user ec2-user        112 Oct  6 16:58 email_body.txt
 -rw-r--r--. 1 ec2-user ec2-user          0 Sep 26 07:53 git
 drwxr-xr-x. 3 ec2-user ec2-user         34 Sep 27 07:46 grep_test
